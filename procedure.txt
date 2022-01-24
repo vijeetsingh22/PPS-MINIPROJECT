@@ -1,0 +1,13 @@
+• First we start by looking at the entry screen when we run the program. 
+    • It starts by showing different options such as “Cast the vote” , “Find Vote Count”, “Finding leading Candidate”, “Exit”. Each of these options are assigned a number 1,2,3,0;
+    • The user is required to select one of these numbers as displayed in the options.
+    • When the user picks 1 as their choice they will be allowed to cast the vote between four candidates “1. Deekshitha”, “2. Debashish”, “3.Jayesh”, “4.Vijeet”, “None of these”.
+    • The user is required to input one of these options to vote for the respective candidate.
+    • After the user cast’s their vote, the statement “Thanks for voting !!” is printed and the loop will start from start.
+    • Here after the vote is casted it will be stored as a vote for that particular candidate and the user is allowed to vote again.
+    • As these voting goes on the number of votes casted on one person will increase and the winner will be decided.
+    • After reaching to the menu again, if the user selects 2 from the menu which is “Find the vote count” then the code displays all the votes casted in that session.
+    • If 3rd option selected then the leading cadidate will be displayed according to the number of votes a person is leadning with compared to his peer cnadidates.
+    • If the last option “0” is slected then the code is exited and the statement “Thanks for Voting!!!” is printed.
+    • This loop continues as long as the voting is done.
+    here is the process
